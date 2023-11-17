@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchMethod", "SwitchMethod\SwitchMethod.csproj", "{B4075704-E955-4BE4-B714-9A1DE7DED36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Debug|x64.ActiveCfg = Debug|x64
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Debug|x64.Build.0 = Debug|x64
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Release|x64.ActiveCfg = Release|x64
+		{B4075704-E955-4BE4-B714-9A1DE7DED36D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB620812-AE7E-4234-B722-657805C3CCBE}
+	EndGlobalSection
+EndGlobal
